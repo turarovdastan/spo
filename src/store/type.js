@@ -1,0 +1,4 @@
+export const TOGGLE_APP_LAYOUT = "TOGGLE_APP_LAYOUT";
+export const CHANGE_HEAD_TITLE = "CHANGE_HEAD_TITLE";
+export const OPEN_POPUP = "OPEN_POPUP";
+export const CLOSE_POPUP = "CLOSE_POPUP";
